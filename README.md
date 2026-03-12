@@ -1,6 +1,10 @@
 # Shang Tsung
 
 <p align="center">
+  <img src="logo.jpg" alt="Shang Tsung" width="200" />
+</p>
+
+<p align="center">
   <em>In memory of Cary Hiroyuki Tagawa (1950–2025)</em><br>
   <strong>"YOUR SOUL IS MINE"</strong>
 </p>
